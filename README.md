@@ -12,3 +12,47 @@ This is a base of a web based application for a countdown pomodoro timer. For no
 3. History 
 
 4. mulit-user authentication
+
+
+# planning out line 
+
+# Pomodoro App
+
+## Pomodoro Timer
+
+  - Pomodoro length
+  - Short break length
+  - long break length
+  - long break interval
+
+
+## Activity Inventory
+
+- Task name
+- Estimated Effort in Pomodoro's
+
+
+## To Do Today
+
+- Task name
+
+- Show Interuptions
+  - Internal 'apostrophe'
+  - External 'dash'
+
+- Show estimated Pomodoros for task
+
+- Need an unplanned an urgent task type that has higher priority than regular tasks 
+
+- Way to mark a task as completed, display with line thru...
+
+## Records
+
+- Date Completed
+- Time Completed
+- Optional Type for the Activity
+- The Activity name
+- Actual Pomodoros to complete
+- Estimated Pomodoros
+- Notes
+
